@@ -5,11 +5,11 @@ subtitle:   "SIGGRAPH 2018, YANG ZHOU , Shenzhen University and Huazhong Univers
 date:       2022-03-18
 author:     "WHGuo"
 catalog: true
-# header-style: text
+header-style: text
 # header-mask: 0.4
 # lang: en
 # hidden: true
-header-img: "img/post-bg-kuaidi.jpg"
+# header-img: "img/post-bg-kuaidi.jpg"
 tags:
   - texture synthesis
   - 笔记
