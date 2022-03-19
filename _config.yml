@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     banxia
-zhihu_username:     banxia
+# weibo_username:     banxia
+zhihu_username:     guo-wen-hao-80-62
 github_username:    Hanyanwh
 # twitter_username:   banxia
 #facebook_username:  banxia
