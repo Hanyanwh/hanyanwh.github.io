@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "Non-Stationary Texture Synthesis by Adversarial Expansion"
+subtitle:   "SIGGRAPH 2018, YANG ZHOU , Shenzhen University and Huazhong University of Science & Technology"
+date:       2022-03-19 12:00:00
+author:     "WHGuo"
+catalog: true
+# header-style: text
+# header-mask: 0.4
+# lang: en
+# hidden: true
+header-img: "img/Non-Stationary Texture Synthesis by Adversarial Expansion.jpg"
+tags:
+  - texture synthesis
+  - 笔记
+---
