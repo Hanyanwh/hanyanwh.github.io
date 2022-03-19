@@ -6,10 +6,10 @@ date:       2022-03-18
 author:     "WHGuo"
 catalog: true
 # header-style: text
-header-mask: 0.4
+# header-mask: 0.4
 # lang: en
 # hidden: true
-header-img: "img/Non-Stationary Texture Synthesis by Adversarial Expansion.jpg"
+header-img: "img/post-bg-kuaidi.jpg"
 tags:
   - texture synthesis
   - 笔记
