@@ -14,9 +14,9 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     banxia
-zhihu_username:     banxia
-github_username:    banxia
-twitter_username:   banxia
+zhihu_username:     guo-wen-hao-80-62
+github_username:    Hanyanwh
+# twitter_username:   banxia
 #facebook_username:  banxia
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -108,26 +108,5 @@ friends: [
     # },{
         title: "乱序（Midare）",
         href: "http://mida.re/"
-    },{
-        title: "Sherry Woo",
-        href: "https://sherrywoo.me/"
-    },{
-        title: "Kun Qian",
-        href: "http://kunq.me"
-    },{
-        title: "Ebn Zhang",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
     }
 ]
