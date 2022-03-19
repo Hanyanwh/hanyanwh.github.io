@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     banxia
-zhihu_username:     guo-wen-hao-80-62
+zhihu_username:     banxia
 github_username:    Hanyanwh
 # twitter_username:   banxia
 #facebook_username:  banxia
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: whguo/github.io
 
 
 
@@ -106,7 +106,5 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序（Midare）",
-        href: "http://mida.re/"
     }
 ]
