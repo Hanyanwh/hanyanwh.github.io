@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "U-GAT-IT 真实人脸转动漫人脸"
-subtitle:   "SIGGRAPH 2018, YANG ZHOU , Shenzhen University and Huazhong University of Science & Technology"
+subtitle:   "ICLR 2020, Junho Kim"
 date:       2022-03-18
 author:     "WHGuo"
 catalog: true
